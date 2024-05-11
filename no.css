@@ -3,12 +3,12 @@ body {
 }
 
 header {
-  background-color: #D67820;
+  background-color: #AB6326;
   padding: 40px 0px 40px 25px;
 }
 
 .link-header {
-  background-color:#D67820 ;
+  background-color:#AB6326;
   padding: 5px 10px 5px 10px;
   font-size: 36px;
   text-decoration: none;
@@ -28,7 +28,7 @@ nav {
 
 h1 {
   text-align: center;
-  color: #FF0DE3;
+  color:yellow;
   font-size: 96px;
 }
 
@@ -64,7 +64,7 @@ ol {
 }
 
 h2 {
-  color: #FF7A7A;
+  color: dark blue;
   font-size: 64px;
 }
 
