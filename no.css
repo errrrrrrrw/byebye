@@ -19,7 +19,7 @@ nav {
 }
 
 .link-nav {
-  color: black;
+  color: gray;
   font-size: 24px;
   margin-right: 35px;
   text-decoration: none;
@@ -58,7 +58,7 @@ ol {
 }
   
 .link-text {
-  color: blue;
+  color: red;
   text-decoration: none;
   border-bottom: 2px solid blue;
 }
