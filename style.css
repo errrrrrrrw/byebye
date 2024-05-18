@@ -14,6 +14,13 @@ header {
   text-decoration: none;
 }
 
+.link-header:hover {
+  background-color: #FF2800;
+  padding: 5px 10px 5px 10px;
+  font-size: 36px;
+  text-decoration: none;
+}
+
 nav {
   padding: 35px 40px 0px 40px;
 }
