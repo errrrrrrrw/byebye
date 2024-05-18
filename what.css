@@ -3,12 +3,12 @@ body {
 }
 
 header {
-  background-color: #5ccccc;
+  background-color: #FFD700;
   padding: 40px 0px 40px 25px;
 }
 
 .link-header {
-  background-color: #9FEE00;
+  background-color: #FFFFE0;
   padding: 5px 10px 5px 10px;
   font-size: 36px;
   text-decoration: none;
@@ -19,16 +19,16 @@ nav {
 }
 
 .link-nav {
-  color: gray;
+  color: yellow;
   font-size: 24px;
   margin-right: 35px;
   text-decoration: none;
-  border-bottom: 2px solid black;
+  border-bottom: 2px solid paleGoldenrod;
 }
 
 h1 {
   text-align: center;
-  color: #2AB428;
+  color: #FFFACD;
   font-size: 96px;
 }
 
@@ -58,13 +58,13 @@ ol {
 }
   
 .link-text {
-  color: red;
+  color: khaki;
   text-decoration: none;
-  border-bottom: 2px solid blue;
+  border-bottom: 2px solid moccasin;
 }
 
 h2 {
-  color: #006363;
+  color: #FFDAB9;
   font-size: 64px;
 }
 
